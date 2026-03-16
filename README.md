@@ -44,7 +44,7 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 
 Developed by:Sanjeev A
 
-RegisterNumber:212224040183
+RegisterNumber:212224230246
 
 ~~~
 module exp5(din,a,b,c);
